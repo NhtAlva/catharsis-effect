@@ -1,0 +1,159 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/f3/19/fc/f319fc7d139ceb41738acc29585727bc.jpg");
+    background-size: contain;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tieude{
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+    text-shadow: 
+    10px 2px 0px black,
+    -2px 2px 0px black,
+    5px -2px 0px black,
+    -2px -2px 0px black;
+}
+
+.phan{
+    background-color: beige;
+    margin: 0 30px;
+    height: 180px;
+    width: 300px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.mucluc{
+    margin-left: 30px;
+}
+
+.container{
+    background-color:#a747db;
+    margin: 30px 0;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.mobai_p1{
+    font-size: 25px;
+}
+
+.mobai_p2{
+    font-size: 15px;
+}
+
+.thanbai{
+    background-image: url("https://i.pinimg.com/736x/85/8f/1e/858f1eeea20a09ed2635f4c04cf90dc9.jpg");
+    background-size: cover;
+    height: 480px;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 30px 40px;
+}
+
+.thanbai_p1{
+    color:antiquewhite;
+    font-size: 30px;
+    text-shadow: 
+    3px 2px 0px black,
+    -2px 2px 0px black,
+    2px -2px 0px black,
+    -2px -2px 0px black;
+}
+
+.thanbai_p2{
+    color: beige;
+    font-size: 18px;
+}
+
+.thanbai2{
+    background-image: url("https://i.pinimg.com/736x/d0/ed/89/d0ed8934aace61d9ac835a26a420f032.jpg");
+    background-size: cover;
+    height: 600px;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 30px 40px;
+}
+
+.thanbai2_p1{
+    color:antiquewhite;
+    font-size: 30px;
+    text-shadow: 
+    3px 2px 0px black,
+    -2px 2px 0px black,
+    2px -2px 0px black,
+    -2px -2px 0px black;
+}
+
+.thanbai2_p2{
+    color: beige;
+    font-size: 18px;
+    margin: 0 180px;
+}
+
+.thanbai3{
+    background-image: url("https://i.pinimg.com/736x/53/97/d2/5397d285d29ae6e49894f333a5925d61.jpg");
+    background-size: cover;
+    height: 600px;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 30px 40px;
+}
+
+.thanbai3_p1{
+
+    color:antiquewhite;
+    font-size: 30px;
+    text-shadow: 
+    3px 2px 0px black,
+    -2px 2px 0px black,
+    2px -2px 0px black,
+    -2px -2px 0px black;
+}
+
+.thanbai3_p2{
+    color: beige;
+    font-size: 18px;
+    margin: 0 150px;
+}
+
+.thanbai4{
+    background-image: url("https://i.pinimg.com/736x/22/31/a1/2231a12c66b176ce1ab4cedd0be6888e.jpg");
+    background-size: cover;
+    height: 560px;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 30px 40px;
+}
+
+.thanbai4_p1{
+    color:antiquewhite;
+    font-size: 30px;
+    text-shadow: 
+    3px 2px 0px black,
+    -2px 2px 0px black,
+    2px -2px 0px black,
+    -2px -2px 0px black;
+}
+
+.thanbai4_p2{
+    color:blanchedalmond;
+    font-size: 18px;
+    margin: 0 60px 0 350px;
+}
+
+footer{
+    background-color: #9B7EBD;
+    height: 220px;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.in4{
+    background-color: #D4BEE4;
+    margin: 20px 20px;
+    border-radius: 10px;
+    border-style: solid;
+    padding: 10px 30px;
+}
